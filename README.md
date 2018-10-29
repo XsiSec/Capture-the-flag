@@ -3,11 +3,6 @@ I have wrote automated python scripts for the google challanges
 regards...
 
 
-
-
-
-
-
 ██╗  ██╗███████╗██╗███████╗███████╗ ██████╗
 ╚██╗██╔╝██╔════╝██║██╔════╝██╔════╝██╔════╝
  ╚███╔╝ ███████╗██║███████╗█████╗  ██║     
