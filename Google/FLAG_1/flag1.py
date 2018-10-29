@@ -6,7 +6,7 @@ import textract
 import re
 import string
 matchList=[] #create a empty matchlist
-url = ('https://storage.googleapis.com/gctf-2018-attachments/5a0fad5699f75dee39434cc26587411b948e0574a545ef4157e5bf4700e9d62a') #url to fetch for the request
+url = 'https://storage.googleapis.com/gctf-2018-attachments/5a0fad5699f75dee39434cc26587411b948e0574a545ef4157e5bf4700e9d62a' #url to fetch for the request
 
 current_working_directory = os.getcwd() #existing directory.
 raw_filename = url.split('/')[-1] # get the filename.
